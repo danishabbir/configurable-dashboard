@@ -1,0 +1,31 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+.steps-content {
+  margin-top: 16px;
+  border: 1px dashed #e9e9e9;
+  border-radius: 2px;
+  background-color: #fafafa;
+  min-height: 200px;
+  text-align: center;
+  padding-top: 80px;
+}
+
+.steps-action {
+  margin-top: 24px;
+}
