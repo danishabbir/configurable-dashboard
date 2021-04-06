@@ -1,8 +1,8 @@
-The configurable dashboard allows you to
+This is a demo of a configurable web-based dashboard that allows you 
 a) select the columns of the data you want to display from the left hand sidebar 
 b) add filters to the displayed data 
-c) Save and export the dashboard config as a json and use it later if needed
-This is a weekend build/demo. 
+c) Save and export the dashboard column + filter config as a json.
+
 
 ## Component Architecture
 
@@ -26,3 +26,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
+This is a 3 hr weekend build. If I get a moment, I'll add data import functionality and data viz features so that it can be generally usable. 
