@@ -2,9 +2,11 @@ The configurable dashboard allows you to
 a) select the columns of the data you want to display from the left hand sidebar 
 b) add filters to the displayed data 
 c) Save and export the dashboard config as a json and use it later if needed
-
 This is a weekend build/demo. 
-Here's the component architecture. 
+
+## Component Architecture
+
+
 ![image](https://user-images.githubusercontent.com/13021858/113779557-c2ce3000-96e2-11eb-9a2b-7f7e73d52693.png)
 
 ## Build instructions
